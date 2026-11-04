@@ -22,7 +22,6 @@ These are country-level team results, not independent model scores attributable 
 
 ## Historical source materials
 
-- [Fall 2019 technical report draft](https://docs.google.com/document/d/1z1Cvkx5ZfqKaYpjGAzX-koKIgHdPdkbX/edit) — draft, not a finalized publication.
 - [Team poster](https://docs.google.com/presentation/d/1nepUS0tPo1rKZeQ4-si2ZBX3wJqunH45/edit) — methods, regression table, findings.
 - [Final team presentation](https://docs.google.com/presentation/d/1Ld3EMtaWho0oGPEFmDX1h_A9AngoHsRy/edit) — methods, results, and limitations.
 
